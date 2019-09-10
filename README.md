@@ -38,7 +38,7 @@ blood glucose forecasting](https://link.springer.com/chapter/10.1007/978-3-319-5
 
 J. Manuel Colmenar, Stephan M. Winkler, Gabriel Kronberger, Almudena Sánchez, Esther Maqueda, Marta Botella,
 J. Ignacio Hidalgo, Sergio Contador, José Manuel Velasco, Oscar Garnica, and Juan Lanchares. [Predicción del nivel
-de glucosa en pacientes con diabetes utilizando técnicas evolutivas](https://www.researchgate.net/publication/326424374_Prediccion_del_nivel_de_glucosa_en_sangre_para_pacientes_con_diabetes_utilizando_tecnicas_evolutivas/). [<span style="color:green">XI Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados 2016</span>](http://cedi2016.scie.es/es/).
+de glucosa en pacientes con diabetes utilizando técnicas evolutivas](https://www.researchgate.net/publication/326424374_Prediccion_del_nivel_de_glucosa_en_sangre_para_pacientes_con_diabetes_utilizando_tecnicas_evolutivas/). [<span style="color:green">XI Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados 2016</span>](http://cedi2016.scie.es/).
 
 
 
