@@ -6,7 +6,7 @@ These papers have been written in collaboration with the [*ABSys Group*](http://
 ## Papers
 J. Manuel Colmenar, Stephan M. Winkler, Gabriel Kronberger, Almudena Sánchez, Esther Maqueda, Marta Botella,
 J. Ignacio Hidalgo, Sergio Contador, José Manuel Velasco, Oscar Garnica, and Juan Lanchares. [Predicción del nivel
-de glucosa en pacientes con diabetes utilizando técnicas evolutivas](https://github.com/scontador/research/blob/master/papers/Predicci%C3%B3n%20del%20nivel%20de%20glucosa%20en%20sangre%20para%20pacientes%20con%20diabetes%20utilizando%20t%C3%A9cnicas%20evolutivas.pdf). [<span style="color:green">XI Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados 2016</span>](http://www.congresocedi.es/es/maeb).
+de glucosa en pacientes con diabetes utilizando técnicas evolutivas](https://www.researchgate.net/publication/326424374_Prediccion_del_nivel_de_glucosa_en_sangre_para_pacientes_con_diabetes_utilizando_tecnicas_evolutivas). [<span style="color:green">XI Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados 2016</span>](http://www.congresocedi.es/es/maeb).
 
 
 <br/>
