@@ -5,6 +5,15 @@ These papers have been written in collaboration with the [*ABSys Group*](http://
 
 ## Papers
 
+Sergio Contador, J. Ignacio Hidalgo, Oscar Garnica, J. Manuel Velasco and Juan Lanchares. [Can Clustering Improve Glucose Forecasting with GeneticProgramming](https://www.researchgate.net/publication/334289915_Can_Clustering_Improve_Glucose_Forecasting_with_Genetic_Programming_Models).
+[The Genetic and Evolutionary Computation Conference](https://gecco-2019.sigevo.org/index.html/HomePage/).
+
+<br/>
+
+J. Ignacio Hidalgo, José Manuel Velasco, Juan Lanchares, Sergio Contador y Oscar Garnica. [Un análisis de soluciones basadas en Programación Genética para resolver problemas de regresión simbólica de datos de medidores continuos de glucosa](https://sci2s.ugr.es/caepia18/proceedings/docs/CAEPIA2018_paper_226.pdf). [XVIII Conferencia de la Asociación Española para la Inteligencia Artificial](https://sci2s.ugr.es/caepia18/proceedings/docs/CAEPIA2018.pdf).
+
+<br/>
+ 
 
 J. M. Velasco, O. Garnica, S. Contador, J. Lanchares, E. Maqueda, M. Botella, and J. I. Hidalgo. [Data augmentation
 and evolutionary algorithms to improve the prediction of blood glucose levels in scarcity of training data](https://ieeexplore.ieee.org/document/7969570/). pages
