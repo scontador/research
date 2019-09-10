@@ -6,7 +6,7 @@ These papers have been written in collaboration with the [*ABSys Group*](http://
 ## Papers
 
 Sergio Contador, J. Ignacio Hidalgo, Oscar Garnica, J. Manuel Velasco and Juan Lanchares. [Can Clustering Improve Glucose Forecasting with GeneticProgramming](https://www.researchgate.net/publication/334289915_Can_Clustering_Improve_Glucose_Forecasting_with_Genetic_Programming_Models/).
-[The Genetic and Evolutionary Computation Conference 2019](https://gecco-2019.sigevo.org/index.html/HomePage/).
+[The Genetic and Evolutionary Computation Conference 2019](https://gecco-2019.sigevo.org/).
 
 <br/>
 
