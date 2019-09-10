@@ -1,4 +1,6 @@
 
+\usepackage{color}
+
 # Research
 These papers have been written in collaboration with the [*ABSys Group*](http://bioinspired.dacya.ucm.es/doku.php?id=home) (*Adaptative and Biosinspired System Group*) from the [*UCM*](https://www.ucm.es/)  (*Universidad Complutense de Madrid*).
 
@@ -6,11 +8,11 @@ These papers have been written in collaboration with the [*ABSys Group*](http://
 ## Papers
 
 Sergio Contador, J. Ignacio Hidalgo, Oscar Garnica, J. Manuel Velasco and Juan Lanchares. [Can Clustering Improve Glucose Forecasting with GeneticProgramming](https://www.researchgate.net/publication/334289915_Can_Clustering_Improve_Glucose_Forecasting_with_Genetic_Programming_Models/).
-[The Genetic and Evolutionary Computation Conference 2019](https://gecco-2019.sigevo.org/).
+[<span style="color:green">The Genetic and Evolutionary Computation Conference 2019</span>](https://gecco-2019.sigevo.org/).
 
 <br/>
 
-J. Ignacio Hidalgo, José Manuel Velasco, Juan Lanchares, Sergio Contador y Oscar Garnica. [Un análisis de soluciones basadas en Programación Genética para resolver problemas de regresión simbólica de datos de medidores continuos de glucosa](https://sci2s.ugr.es/caepia18/proceedings/docs/CAEPIA2018_paper_226.pdf/). [XVIII Conferencia de la Asociación Española para la Inteligencia Artificial 2018](https://sci2s.ugr.es/caepia18/).
+J. Ignacio Hidalgo, José Manuel Velasco, Juan Lanchares, Sergio Contador y Oscar Garnica. [Un análisis de soluciones basadas en Programación Genética para resolver problemas de regresión simbólica de datos de medidores continuos de glucosa](https://sci2s.ugr.es/caepia18/proceedings/docs/CAEPIA2018_paper_226.pdf/). [<span style="color:green">XVIII Conferencia de la Asociación Española para la Inteligencia Artificial 2018</span>](https://sci2s.ugr.es/caepia18/).
 
 <br/>
  
@@ -21,7 +23,7 @@ and evolutionary algorithms to improve the prediction of blood glucose levels in
 <br/>
 
 
-Jose Manuel Velasco, Oscar Garnica, Sergio Contador, Marta Botella, Juan Lanchares, and Ignacio Hidalgo. [Forecasting glucose levels in patients with diabetes mellitus using semantic grammatical evolution and symbolic aggregate approximation](https://www.researchgate.net/publication/318376740_Forecasting_glucose_levels_in_patients_with_diabetes_mellitus_using_semantic_grammatical_evolution_and_symbolic_aggregate_approximation/). [<span style="color:green">The Genetic and Evolutionary Computation Conference 2017</span>](http://gecco-2017.sigevo.org/index.html/HomePage/).
+Jose Manuel Velasco, Oscar Garnica, Sergio Contador, Marta Botella, Juan Lanchares, and Ignacio Hidalgo. [Forecasting glucose levels in patients with diabetes mellitus using semantic grammatical evolution and symbolic aggregate approximation](https://www.researchgate.net/publication/318376740_Forecasting_glucose_levels_in_patients_with_diabetes_mellitus_using_semantic_grammatical_evolution_and_symbolic_aggregate_approximation/). [<span style="color:green">The Genetic and Evolutionary Computation Conference 2017</span>](http://gecco-2017.sigevo.org/).
 
 
 <br/>
