@@ -1,9 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-
 
 # Research
 These papers have been written in collaboration with the [*ABSys Group*](http://bioinspired.dacya.ucm.es/doku.php?id=home) (*Adaptative and Biosinspired System Group*) from the [*UCM*](https://www.ucm.es/)  (*Universidad Complutense de Madrid*).
