@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
 
 # Research
@@ -31,6 +36,13 @@ Jose Manuel Velasco, Oscar Garnica, Sergio Contador, Marta Botella, Juan Lanchar
 Jose Manuel Velasco, Oscar Garnica, Sergio Contador, Jose Manuel Colmenar, Esther Maqueda, Marta Botella, Juan
 Lanchares, and J Ignacio Hidalgo. [Enhancing grammatical evolution through data augmentation: Application to
 blood glucose forecasting](https://link.springer.com/chapter/10.1007/978-3-319-55849-3_10). [<span style="color:green">European Conference on the Applications of Evolutionary Computation 2017</span>](http://www.evostar.org/2017/cfp_evoapps.php).
+
+
+
+<br/>
+
+
+J Ignacio Hidalgo, Esther Maqueda, Stephan Winkler, Gabriel Kronberger, J Manuel Colmenar, Marta Botella, J Manuel Velasco, Sergio Contador, Almudena Sanchez, Oscar Garnica and Juan Lanchares. [Classification, Modeling and prediction of glycemia in diabetic patients by evolutionary and heuristic computation from continuous glucose monitoring, carbohydrates and insulin records](https://www.researchgate.net/publication/326424362_Classification_Modeling_and_prediction_of_glycemia_in_diabetic_patients_by_evolutionary_and_heuristic_computation_from_continuous_glucose_monitoring_carbohydrates_and_insulin_records). [<span style="color:green">X International Conference on Advanced Technologies Treatments for Diabetes 2017</span>](https://www.attd-education.com). 
 
 
 <br/>
